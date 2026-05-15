@@ -1,0 +1,41 @@
+patient_id,name,gender,city,disease,doctor_name,specialization,status,amount,payment_mode,bill_date
+1,Vicky,Male,Chennai,Fever,"Dr. Kumar",Cardiology,Completed,1500,Cash,2026-04-01
+2,Ram,Male,Salem,Diabetes,"Dr. Priya","General Physician",Completed,2500,UPI,2026-04-02
+3,Nithiya,Female,Chennai,BP,"Dr. Raj",Diabetology,Completed,1800,Card,2026-04-03
+4,Kamal,Male,Madurai,Heart,"Dr. Anitha",Gynecology,Completed,5000,Cash,2026-04-04
+5,Priya,Female,Coimbatore,Fever,"Dr. Ravi",Orthopedics,Completed,1200,UPI,2026-04-05
+6,Arun,Male,Chennai,Diabetes,"Dr. Meena",Dermatology,Completed,3200,Card,2026-04-06
+7,Karthik,Male,Trichy,BP,"Dr. Suresh",Neurology,Completed,2100,Cash,2026-04-07
+8,Divya,Female,Salem,Fever,"Dr. Divya",Pediatrics,Completed,1400,UPI,2026-04-08
+9,Rahul,Male,Chennai,Heart,"Dr. Arun",Cardiology,Completed,6000,Card,2026-04-09
+10,Sneha,Female,Madurai,BP,"Dr. Kavya",ENT,Completed,1700,Cash,2026-04-10
+11,Vijay,Male,Chennai,Diabetes,"Dr. Manoj",Urology,Completed,2800,UPI,2026-04-11
+12,Anitha,Female,Trichy,Fever,"Dr. Swathi",Gynecology,Completed,1300,Card,2026-04-12
+13,Manoj,Male,Salem,Heart,"Dr. Vijay","General Physician",Completed,5200,Cash,2026-04-13
+14,Meena,Female,Coimbatore,BP,"Dr. Deepa",Dermatology,Completed,1900,UPI,2026-04-14
+15,Suresh,Male,Chennai,Fever,"Dr. Prakash",Orthopedics,Completed,1600,Card,2026-04-15
+16,Lavanya,Female,Madurai,Diabetes,"Dr. Rekha",Pediatrics,Completed,3500,Cash,2026-04-16
+17,Prakash,Male,Trichy,BP,"Dr. Ganesh",Neurology,Completed,2200,UPI,2026-04-17
+18,Kavya,Female,Chennai,Fever,"Dr. Latha",ENT,Completed,1100,Card,2026-04-18
+19,Ravi,Male,Salem,Heart,"Dr. Karthik",Cardiology,Completed,5800,Cash,2026-04-19
+20,Swathi,Female,Madurai,BP,"Dr. Pooja",Diabetology,Completed,2000,UPI,2026-04-20
+21,Ganesh,Male,Chennai,Fever,"Dr. Ramesh",Urology,Pending,1450,Card,2026-04-21
+22,Pooja,Female,Coimbatore,Diabetes,"Dr. Harini",Gynecology,Pending,2700,Cash,2026-04-22
+23,Ajay,Male,Trichy,Heart,"Dr. Senthil",Orthopedics,Completed,4900,UPI,2026-04-23
+24,Deepa,Female,Salem,BP,"Dr. Aishwarya",Dermatology,Completed,2300,Card,2026-04-24
+25,Senthil,Male,Chennai,Fever,"Dr. Murali","General Physician",Pending,1550,Cash,2026-04-25
+26,Rekha,Female,Madurai,Diabetes,"Dr. Naveen",Pediatrics,Completed,3100,UPI,2026-04-26
+27,Saravanan,Male,Trichy,Heart,"Dr. Balaji",Cardiology,Completed,6200,Card,2026-04-27
+28,Aishwarya,Female,Chennai,BP,"Dr. Shalini",ENT,Pending,1800,Cash,2026-04-28
+29,Kiran,Male,Salem,Fever,"Dr. Dinesh",Neurology,Completed,1400,UPI,2026-04-29
+30,Harini,Female,Coimbatore,Diabetes,"Dr. Keerthi",Gynecology,Completed,2950,Card,2026-04-30
+31,Murali,Male,Madurai,Heart,"Dr. Saravanan",Orthopedics,Pending,6500,Cash,2026-05-01
+32,Preethi,Female,Chennai,Fever,"Dr. Preethi",Dermatology,Completed,1200,UPI,2026-05-02
+33,Dinesh,Male,Trichy,BP,"Dr. Ajay",Cardiology,Completed,2100,Card,2026-05-03
+34,Keerthi,Female,Salem,Fever,"Dr. Nithiya",Pediatrics,Completed,1750,Cash,2026-05-04
+35,Ramesh,Male,Chennai,Diabetes,"Dr. Kiran","General Physician",Pending,3300,UPI,2026-05-05
+36,Naveen,Male,Coimbatore,BP,"Dr. Lavanya",ENT,Completed,2400,Card,2026-05-06
+37,Latha,Female,Madurai,Fever,"Dr. Rahul",Neurology,Completed,1600,Cash,2026-05-07
+38,Balaji,Male,Trichy,Heart,"Dr. Sneha",Gynecology,Pending,5200,UPI,2026-05-08
+39,Shalini,Female,Chennai,BP,"Dr. Kamal",Urology,Completed,2000,Card,2026-05-09
+40,Kumar,Male,Salem,Diabetes,"Dr. Vicky",Diabetology,Completed,2800,Cash,2026-05-10
